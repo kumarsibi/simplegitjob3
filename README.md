@@ -9,6 +9,9 @@ to use.
 3. Set up build status badge.
 4. Set up second job to run the program after build completes.
 
+
+added somethign test
+
 #### Prerequisites
 A Jenkins server is needed in order to complete the exercise. One option is local virtualization using 
 [Docker](https://hub.docker.com/r/jenkins/jenkins/) or a virtual machine. Another is installing Jenkins on a cloud 
